@@ -132,7 +132,8 @@ This flow diagram illustrates the complete process of the RoBERTa Model.
 | RoBERTa Transformer                                    | 90.1%                      | 89.0%                |
 
 
-
+# Conclusion
+The Coarse-Grained Word Sense Disambiguation (WSD) project has successfully highlighted the effectiveness of modern transformer models in improving WSD tasks. Our baseline model, which utilized a Bi-LSTM architecture with pre-trained GloVe embeddings, provided a solid starting point with an accuracy of **71.2%** on the test data. However, the RoBERTa Transformer significantly outperformed the baseline, achieving an impressive **89.0%** accuracy. This stark improvement underscores the superior capability of transformer-based models in capturing contextual nuances in language, making them highly suitable for WSD applications. Future work will explore further optimizations and potential integrations with other advanced NLP frameworks.
 
 
 
